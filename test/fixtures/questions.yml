@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  receivedTime: 2015-03-23 06:00:27
+  questioner: MyString
+  body: MyText
+
+two:
+  receivedTime: 2015-03-23 06:00:27
+  questioner: MyString
+  body: MyText
