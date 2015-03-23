@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  accepted_datetime: 2015-02-20 05:10:32
+  inquired_person: MyString
+  dept_id: 
+  contents: MyText
+
+two:
+  accepted_datetime: 2015-02-20 05:10:32
+  inquired_person: MyString
+  dept_id: 
+  contents: MyText
